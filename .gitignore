@@ -1,0 +1,3 @@
+app.ini
+*\vendor
+*\composer.lock
